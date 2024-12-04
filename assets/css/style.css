@@ -1,0 +1,19 @@
+.awci-mapping-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+.awci-mapping-table th, .awci-mapping-table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.awci-mapping-table th {
+    background: #f4f4f4;
+    text-align: left;
+}
+
+#awci-mapping-section {
+    margin-top: 20px;
+}
